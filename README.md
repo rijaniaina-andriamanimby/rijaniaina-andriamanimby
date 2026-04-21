@@ -1,13 +1,5 @@
 <h1 align="center">👋 Salut, moi c’est <span style="color:#7aa2f7">Rijaniaina ANDRIAMANDIMBY</span></h1>
 
-<p align="center">
-🎓 Étudiant à l'Ecole Nationale d'Informatique de l'Université de Fianarantsoa  
-<br/>
-💻 Passionné par le développement <strong>web</strong> et <strong>mobile</strong>  
-<br/>
-🧩 J’aime créer des interfaces claires, cohérentes et fonctionnelles
-</p>
-
 ---
 
 ## 🛠️ Compétences techniques
